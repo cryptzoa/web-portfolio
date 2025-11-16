@@ -1,5 +1,7 @@
 # Portfolio Website Rayhan
 
+Website : https://kexterr-v1.netlify.app/
+
 ## Deskripsi
 
 Website portfolio ini dibuat sebagai tugas kuliah untuk memperkenalkan diri sebagai mahasiswa Teknologi Informasi. Website ini menampilkan informasi pribadi, keterampilan, dan kontak saya sebagai programmer pemula. Desainnya sederhana, responsif, dan menggunakan animasi untuk memberikan pengalaman yang menarik.
